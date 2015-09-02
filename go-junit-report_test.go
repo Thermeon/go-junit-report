@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/jstemmer/go-junit-report/parser"
+	"github.com/Thermeon/go-junit-report/parser"
 	"io/ioutil"
 	"os"
 	"runtime"
